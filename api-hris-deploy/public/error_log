@@ -1,0 +1,349 @@
+[22-Apr-2025 11:25:27 UTC] PHP Warning:  require(/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php): failed to open stream: No such file or directory in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 11:25:27 UTC] PHP Fatal error:  require(): Failed opening required '/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 11:25:38 UTC] PHP Warning:  require(/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php): failed to open stream: No such file or directory in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 11:25:38 UTC] PHP Fatal error:  require(): Failed opening required '/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 11:33:12 UTC] PHP Warning:  require(/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php): failed to open stream: No such file or directory in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 11:33:12 UTC] PHP Fatal error:  require(): Failed opening required '/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 11:33:14 UTC] PHP Warning:  require(/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php): failed to open stream: No such file or directory in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 11:33:14 UTC] PHP Fatal error:  require(): Failed opening required '/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 11:33:23 UTC] PHP Warning:  require(/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php): failed to open stream: No such file or directory in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 11:33:23 UTC] PHP Fatal error:  require(): Failed opening required '/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 11:33:25 UTC] PHP Warning:  require(/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php): failed to open stream: No such file or directory in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 11:33:25 UTC] PHP Fatal error:  require(): Failed opening required '/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 11:33:28 UTC] PHP Warning:  require(/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php): failed to open stream: No such file or directory in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 11:33:28 UTC] PHP Fatal error:  require(): Failed opening required '/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 11:45:05 UTC] PHP Warning:  require(/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 11:45:05 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/portfol7/api.hris.portfoliodigato.com/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 11:46:38 UTC] PHP Warning:  require(/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 11:46:38 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/portfol7/api.hris.portfoliodigato.com/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 11:55:25 UTC] PHP Warning:  require(/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 11:55:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/portfol7/api.hris.portfoliodigato.com/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:01:35 UTC] PHP Warning:  require(/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:01:35 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/portfol7/api.hris.portfoliodigato.com/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:01:39 UTC] PHP Warning:  require(/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:01:39 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/portfol7/api.hris.portfoliodigato.com/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:01:50 UTC] PHP Warning:  require(/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:01:50 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/portfol7/api.hris.portfoliodigato.com/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:02:54 UTC] PHP Warning:  require(/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:02:54 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/portfol7/api.hris.portfoliodigato.com/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:07:41 UTC] PHP Warning:  require(/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:07:41 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/portfol7/api.hris.portfoliodigato.com/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:07:41 UTC] PHP Warning:  require(/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:07:41 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/portfol7/api.hris.portfoliodigato.com/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:12:31 UTC] PHP Warning:  require(/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:12:31 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/portfol7/api.hris.portfoliodigato.com/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:12:31 UTC] PHP Warning:  require(/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:12:31 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/portfol7/api.hris.portfoliodigato.com/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:12:32 UTC] PHP Warning:  require(/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:12:32 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/portfol7/api.hris.portfoliodigato.com/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:12:32 UTC] PHP Warning:  require(/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:12:32 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/portfol7/api.hris.portfoliodigato.com/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:12:32 UTC] PHP Warning:  require(/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:12:32 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/portfol7/api.hris.portfoliodigato.com/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:12:32 UTC] PHP Warning:  require(/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:12:32 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/portfol7/api.hris.portfoliodigato.com/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:12:32 UTC] PHP Warning:  require(/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:12:32 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/portfol7/api.hris.portfoliodigato.com/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:12:33 UTC] PHP Warning:  require(/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:12:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/portfol7/api.hris.portfoliodigato.com/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:12:33 UTC] PHP Warning:  require(/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:12:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/portfol7/api.hris.portfoliodigato.com/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:12:33 UTC] PHP Warning:  require(/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:12:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/portfol7/api.hris.portfoliodigato.com/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:12:34 UTC] PHP Warning:  require(/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:12:34 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/portfol7/api.hris.portfoliodigato.com/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:12:34 UTC] PHP Warning:  require(/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:12:34 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/portfol7/api.hris.portfoliodigato.com/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:12:34 UTC] PHP Warning:  require(/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:12:34 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/portfol7/api.hris.portfoliodigato.com/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:12:34 UTC] PHP Warning:  require(/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:12:34 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/portfol7/api.hris.portfoliodigato.com/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:12:34 UTC] PHP Warning:  require(/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:12:34 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/portfol7/api.hris.portfoliodigato.com/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:16:46 UTC] PHP Warning:  require(/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:16:46 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/portfol7/api.hris.portfoliodigato.com/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:27:59 UTC] PHP Warning:  require(/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:27:59 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/portfol7/api.hris.portfoliodigato.com/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:28:00 UTC] PHP Warning:  require(/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:28:00 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/portfol7/api.hris.portfoliodigato.com/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:28:00 UTC] PHP Warning:  require(/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:28:00 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/portfol7/api.hris.portfoliodigato.com/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:28:01 UTC] PHP Warning:  require(/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:28:01 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/portfol7/api.hris.portfoliodigato.com/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:28:01 UTC] PHP Warning:  require(/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:28:01 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/portfol7/api.hris.portfoliodigato.com/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:28:01 UTC] PHP Warning:  require(/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:28:01 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/portfol7/api.hris.portfoliodigato.com/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:28:01 UTC] PHP Warning:  require(/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:28:01 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/portfol7/api.hris.portfoliodigato.com/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:28:01 UTC] PHP Warning:  require(/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:28:01 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/portfol7/api.hris.portfoliodigato.com/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:28:01 UTC] PHP Warning:  require(/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:28:01 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/portfol7/api.hris.portfoliodigato.com/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:28:02 UTC] PHP Warning:  require(/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:28:02 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/portfol7/api.hris.portfoliodigato.com/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:28:02 UTC] PHP Warning:  require(/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:28:02 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/portfol7/api.hris.portfoliodigato.com/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:28:02 UTC] PHP Warning:  require(/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:28:02 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/portfol7/api.hris.portfoliodigato.com/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:28:04 UTC] PHP Warning:  require(/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:28:04 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/portfol7/api.hris.portfoliodigato.com/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:28:07 UTC] PHP Warning:  require(/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:28:07 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/portfol7/api.hris.portfoliodigato.com/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:36:25 UTC] PHP Warning:  require(/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:36:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/portfol7/api.hris.portfoliodigato.com/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:45:54 UTC] PHP Warning:  require(/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:45:54 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/portfol7/api.hris.portfoliodigato.com/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:46:22 UTC] PHP Warning:  require(/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:46:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/portfol7/api.hris.portfoliodigato.com/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:46:23 UTC] PHP Warning:  require(/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:46:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/portfol7/api.hris.portfoliodigato.com/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:46:23 UTC] PHP Warning:  require(/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:46:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/portfol7/api.hris.portfoliodigato.com/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:46:23 UTC] PHP Warning:  require(/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:46:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/portfol7/api.hris.portfoliodigato.com/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:46:24 UTC] PHP Warning:  require(/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:46:24 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/portfol7/api.hris.portfoliodigato.com/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:46:24 UTC] PHP Warning:  require(/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:46:24 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/portfol7/api.hris.portfoliodigato.com/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:46:24 UTC] PHP Warning:  require(/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:46:24 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/portfol7/api.hris.portfoliodigato.com/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:46:24 UTC] PHP Warning:  require(/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:46:24 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/portfol7/api.hris.portfoliodigato.com/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:46:24 UTC] PHP Warning:  require(/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:46:24 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/portfol7/api.hris.portfoliodigato.com/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:46:24 UTC] PHP Warning:  require(/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:46:24 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/portfol7/api.hris.portfoliodigato.com/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:46:24 UTC] PHP Warning:  require(/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:46:24 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/portfol7/api.hris.portfoliodigato.com/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:46:25 UTC] PHP Warning:  require(/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:46:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/portfol7/api.hris.portfoliodigato.com/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:46:25 UTC] PHP Warning:  require(/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:46:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/portfol7/api.hris.portfoliodigato.com/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:46:25 UTC] PHP Warning:  require(/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:46:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/portfol7/api.hris.portfoliodigato.com/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:46:25 UTC] PHP Warning:  require(/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:46:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/portfol7/api.hris.portfoliodigato.com/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:46:26 UTC] PHP Warning:  require(/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:46:26 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/portfol7/api.hris.portfoliodigato.com/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:46:26 UTC] PHP Warning:  require(/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:46:26 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/portfol7/api.hris.portfoliodigato.com/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:46:26 UTC] PHP Warning:  require(/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:46:26 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/portfol7/api.hris.portfoliodigato.com/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:46:28 UTC] PHP Warning:  require(/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:46:28 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/portfol7/api.hris.portfoliodigato.com/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:46:41 UTC] PHP Warning:  require(/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:46:41 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/portfol7/api.hris.portfoliodigato.com/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:46:42 UTC] PHP Warning:  require(/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:46:42 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/portfol7/api.hris.portfoliodigato.com/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:49:31 UTC] PHP Warning:  require(/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:49:31 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/portfol7/api.hris.portfoliodigato.com/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:49:35 UTC] PHP Warning:  require(/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:49:35 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/portfol7/api.hris.portfoliodigato.com/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:49:55 UTC] PHP Warning:  require(/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 12:49:55 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/portfol7/api.hris.portfoliodigato.com/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 13:00:13 UTC] PHP Warning:  require(/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 13:00:13 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/portfol7/api.hris.portfoliodigato.com/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 13:01:21 UTC] PHP Warning:  require(/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
+[22-Apr-2025 13:01:21 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/portfol7/api.hris.portfoliodigato.com/public/../api.hris.portfoliodigato.com/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/portfol7/api.hris.portfoliodigato.com/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/portfol7/api.hris.portfoliodigato.com/public/index.php on line 14
